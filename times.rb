@@ -7,6 +7,3 @@ end
 
 
 using_times
-
-
-
